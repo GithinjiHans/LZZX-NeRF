@@ -2,3 +2,4 @@ static/generate-mp4/
 data
 trial_*
 *.log
+data_utils/face_tracking/3DMM*
